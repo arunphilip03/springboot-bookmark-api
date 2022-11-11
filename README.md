@@ -1,1 +1,4 @@
-# springboot-bookmark-api
+# Springboot-Bookmark-Api
+
+- Hands-on / learning project
+- 
